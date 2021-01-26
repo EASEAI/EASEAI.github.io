@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Benoît Vanderose | EASEAI</title>
+    <link>https://EASEAI.github.io/author/benoit-vanderose/</link>
+      <atom:link href="https://EASEAI.github.io/author/benoit-vanderose/index.xml" rel="self" type="application/rss+xml" />
+    <description>Benoît Vanderose</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 EASEAI</copyright>
+    <image>
+      <url>https://EASEAI.github.io/author/benoit-vanderose/avatar_hu3dc7f58c98233f3bfad994ccae960fef_9296_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Benoît Vanderose</title>
+      <link>https://EASEAI.github.io/author/benoit-vanderose/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xavier Devroey | EASEAI</title>
+    <link>https://EASEAI.github.io/author/xavier-devroey/</link>
+      <atom:link href="https://EASEAI.github.io/author/xavier-devroey/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xavier Devroey</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 EASEAI</copyright>
+    <image>
+      <url>https://EASEAI.github.io/author/xavier-devroey/avatar_hu965728eea3d758669c61acb078460fa1_130340_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Xavier Devroey</title>
+      <link>https://EASEAI.github.io/author/xavier-devroey/</link>
+    </image>
+    
+  </channel>
+</rss>

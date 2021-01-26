@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>keynote2019 | EASEAI</title>
+    <link>https://EASEAI.github.io/tag/keynote2019/</link>
+      <atom:link href="https://EASEAI.github.io/tag/keynote2019/index.xml" rel="self" type="application/rss+xml" />
+    <description>keynote2019</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 EASEAI</copyright><lastBuildDate>Mon, 26 Aug 2019 09:15:00 +0100</lastBuildDate>
+    <image>
+      <url>https://EASEAI.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>keynote2019</title>
+      <link>https://EASEAI.github.io/tag/keynote2019/</link>
+    </image>
+    
+    <item>
+      <title>Using a learning robot to open the black box of artificial intelligence</title>
+      <link>https://EASEAI.github.io/event/keynote-2019/</link>
+      <pubDate>Mon, 26 Aug 2019 09:15:00 +0100</pubDate>
+      <guid>https://EASEAI.github.io/event/keynote-2019/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;As our daily lives become crowded with interactions with “Artificial Intelligence” devices and agents, it is an acute challenge for society to make new generations take ownership over this technology, at least as informed and critical users. This implies understanding how computer programs, while still relying on deterministic instructions, are now capable of learning new and sometimes unpredictable behaviors by crunching data. Yet even in recent initiatives for demystifying AI, the learning process itself remains often a black box whose internal mechanisms seem out-of-reach, if not magical. To open this black box, we envisioned the demonstration of a learning robot acquiring skills in front of the public and coupled with real-time graphic interfaces that display its algorithms details. Not only machine learning becomes very concrete as one sees the robot performance improving over time, but some evident parallels can be drawn with animals whose brain processes sensory input to issue motor commands and learns from experience. This introduces naturally the notion that the robot is itself driven by an artificial neuronal network, whose activity and transformation through learning are projected on screen. We will show how this educative product, even though it relies on the particularly difficult topic of reinforcement learning for robotics, makes children able to understand and manipulate the core concepts of deep learning, and even question some similarities with their own learnings.&lt;/p&gt;
+&lt;h2 id=&#34;bio&#34;&gt;Bio&lt;/h2&gt;
+&lt;p&gt;After a training in Mathematics and his PhD in Computer Vision and Brain Imaging Analysis at ENS Paris, Thomas Deneux studied cortical population dynamics during his postdoctoral research in Neurobiology at the Weizmann Institute (Israel) and CNRS (France). He now pursues researches in Neurorobotics at CNRS, with a fresh interest for education as he aims the creation of a startup developing a learning robot to teach artificial intelligence to the general public.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
