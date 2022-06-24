@@ -79,9 +79,12 @@
        margin: 0px; 
        left: 0;
        top: 0;
-       background: rgba(52, 36, 28, 0.8);
-        
-}
+       background: rgba(52, 36, 28, 0.8); 
+    }
+    .line-strikethrough {
+         display: inline;
+         background-image: linear-gradient(transparent 0.8ex, gray 0.8ex, black 1ex, transparent 1.5ex);
+    }   
     
   </style>
 </head>
@@ -381,7 +384,7 @@
 
           <h2 class="top_space" id="important-dates">Important dates</h2>
           <ul>
-            <li>Paper submission: July 5th, 2022<!-- June 27th, 2022 --> (AoE)</li>
+            <li>Paper submission: <span class="line-strikethrough">June 27th, 2022</span> July 5th, 2022 (AoE)</li>
             <li>Notification: July 29th, 2022 (AoE)</li>
             <li>Camera-ready: September 9th, 2022 (AoE)</li>
             <li>Workshop date: November 18th, 2022</li>
